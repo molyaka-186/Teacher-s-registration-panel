@@ -1,0 +1,8 @@
+Database Name : teacher
+Table Name : tec_info
+tec_id		int(11)	 Primary
+tec_name	varchar(50)
+tec_username	varchar(50)
+tec_password	varchar(50)
+tec_email	varchar(50)
+tec_phone	bigint(20)
